@@ -1,0 +1,10 @@
+# Comandos citados em aula:
+
+cd
+pwd
+chmod
+chown
+ps -ef
+adduser
+useradd
+userdel
