@@ -1,0 +1,151 @@
+    2  git commit -m "Primeiro commit"
+    3  git status
+    4  git remote -v
+    5  git remote show origin
+    6  git push origin master
+    7  git pull
+    9  git pull orgin master
+   11  git pull origin master
+   26  git init
+   27  git add README.md
+   28  git status
+   29  git commit -m "first commit"
+   30  remote add origin git@github.com:qualymetrics/HPD-CodeOps.git
+   31  git remote add origin git@github.com:qualymetrics/HPD-CodeOps.git
+   32  git remote -v
+   33  git push -u origin master
+   34  git status
+   35  mkdir linux git ruby python docker chef ansible gitlab jenkins prometheus beat markdown graylog
+   37  git status
+   40  history | grep git
+   42  git-flow
+   43  git-flow develop
+   44  git-flow init
+   45  git push -u origin master
+   46  git commit
+   47  git checkout master
+   48  git commit
+   49  git push -u origin master
+   50  git checkout develop
+   51  git push -u origin develop
+   52  git checkout feature
+   53  git checkout aula
+   54  git checkout feature/aula
+   55  git checkout hotfix
+   56  git checkout support
+   57  git checkout master
+   58  git status
+   60  git add -A
+   61  git commit
+   62  git push -u origin master
+   64  cp README.md ruby python prometheus markdown linux jenkins graylog git docker chef beat ansible
+   74  cp README.md gitlab
+   75  cp README.md git
+   82  git status
+   83  git add -A
+   84  git status
+   85  git commit origin master
+   86  history| grep git
+   87  git commit -m "Treinamento HPD"
+   88  git push origin master
+   89  git status
+   90  git-flow
+   91  git flow help
+   92  git flow init help
+   93  man git flow
+   94  man git-flow
+   95  git-flow
+   96  git-flow init
+   97  git-flow init -f
+   98  git remote help
+   99  git remote -v
+  100  git remote show
+  101  git status
+  102  git checkout aula
+  103  git checkout aula/
+  105  git ckegout develop
+  106  git checkout develop
+  107  git checkout master
+  108  git checkout aula
+  109  git checkout feature
+  110  git checkout feature/aula
+  111  git checkout hotfix
+  112  git branch -a
+  113  git show-ref
+  114  cd .git
+  131  git fetch
+  132  git branch -a
+  133  git flow init
+  135  git flow init
+  136  git flow init -f
+  137  git branch -a
+  138  git branch
+  139  git push origin develop
+  140  git push origin hotfix
+  141  git flow init -f
+  142  git-flow --help
+  143  git flow --help
+  144  git-flow --help
+  145  git-flow 
+  146  git-flow hotfix
+  147  git flow hotfix start
+  148  git flow hotfix start publish
+  149  git flow hotfix stop
+  150  git flow hotfix stop publish
+  151  git flow hotfix finish 
+  152  git flow hotfix finish -F
+  153  git flow hotfix finish
+  154  git branch
+  155  git checkout master
+  156  git branch
+  157  git brach --help
+  158  git flow hot fix finish
+  159  git flow hotfix finish
+  160  git flow hotfix finish -Fsumpk
+  161  git branch
+  162  git checkout hotfix/publish
+  163  git push origin hotfix/publish
+  164  git checkout master
+  165  git pull origin msater
+  166  git pull origin master
+  167  git branch
+  168  git branch -D hotfix/publish
+  169  git branch
+  170  git push origin master
+  171  git remote origin hotfix/publish
+  172  git push origin :hotfix/publish
+  173  git status
+  174  git branch
+  175  git checkout develop
+  177  git flow aula start python
+  178  git flow feature
+  179  git flow feature start python
+  180  git branch
+  184  git add .
+  185  git status
+  186  git commit -m "adicionado arquivo python"
+  187  git status
+  188  git push origin aula/python
+  191  git status
+  192  git commit -m "arquivo arq.py removido"
+  193  git push origin aula/python
+  195  git status
+  196  git commit -a
+  197  git status
+  198  git rm arq.py
+  199  git status
+  200  git commit -a
+  201  git commit -m "arquivo arq.py removido"
+  202  git status
+  203  git push origin aula/python
+  204  git branch
+  206  git flow feature start linux
+  207  git flow feature start git
+  208  git branch
+  209  git checkout aula/linux
+  213  git status
+  214  git add -A
+  215  git commit -m "Arquivo com os comandos aprendidos na aula de linux"
+  216  git push origin aula/linux
+  217  git checkout aula/git
+  219  touch comandos_git.txt
